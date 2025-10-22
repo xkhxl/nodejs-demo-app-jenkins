@@ -42,4 +42,20 @@ Automate the build and deployment of a Node.js application using Jenkins and Doc
 - **DockerHub Credentials ID**: dockerhub-creds  
 
 ---
+## Screenshots
+
+### 1. Jenkins Pipeline Overview
+![Jenkins](screenshots/jenkins-pipeline-overview.png)
+
+### 2. Jenkins Console Output
+![Jenkins](screenshots/jenkins-console-output.png)
+
+### 3. Docker Image
+![Docker](screenshots/docker-image.png)
+
+### 4. Build Pipeline Trigger
+![Jenkins](screenshots/pipeline-trigger-3-4.png)
+
+### 5. Output
+![Output](screenshots/output.png)
 
